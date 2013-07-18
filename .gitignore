@@ -1,0 +1,10 @@
+.netrwhist
+*.swp
+*.swo
+*.orig
+.rvmrc
+*.sk.*
+.DS_Store
+.powrc
+.ruby-gemset
+.ruby-version
